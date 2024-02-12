@@ -18,7 +18,7 @@ You can determine personas based on demographics studies for your area and the l
 ## Setup
 1. **Python Installation**: Ensure you have Python 3.x installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
 
-2. **Script Download**: Download the `cafe_simulation.py` script from this repository.
+2. **Script Download**: Download the `retail_simulation.ipynb` script from this repository.
 
 3. **Dependencies**: This script uses the `random` module, which is part of the Python Standard Library and requires no additional installation.
 
