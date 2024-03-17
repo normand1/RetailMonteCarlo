@@ -1,0 +1,26 @@
+{
+    "Classic": [
+        {
+            "name": "KF Black Tea",
+            "description": "Earl grey tea with bergamot. Bold & citrusy.\n*Vegan-friendly*",
+            "price": "$5.65"
+        },
+        {
+            "name": "KF Green Tea",
+            "description": "Refreshing jasmine green tea sweetened with cane sugar.\n*Vegan-friendly*",
+            "price": "$5.65"
+        }
+    ],
+    "Punch": [
+        {
+            "name": "Honey Lemonade",
+            "description": "Fresh lemonade sweetened with longan honey. \n*Caffeine-free*",
+            "price": "$5.95"
+        },
+        {
+            "name": "Tropical Punch",
+            "description": "Celebrate the Pikmin\u2122 4 game with our new refreshing Punch combining delicious fruit flavors with Mango Popping Bubbles!\n*Caffeine free*",
+            "price": "$6.85"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "Espresso Bar": [
+        {
+            "name": "Latte",
+            "description": "",
+            "price": "$4.50"
+        },
+        {
+            "name": "Iced Latte",
+            "description": "16 oz.",
+            "price": "$4.50"
+        }
+    ],
+    "Coffee": [
+        {
+            "name": "House Coffee",
+            "description": "Hello neighbor drip west oak coffee.",
+            "price": "$3.00"
+        }
+    ],
+    "Cold Favorites": [
+        {
+            "name": "Cold Brew",
+            "description": "",
+            "price": "$5.00"
+        },
+        {
+            "name": "Chocolate Cold Brew",
+            "description": "",
+            "price": "$5.00"
+        }
+    ],
+    "Steamed & Sweet": [
+        {
+            "name": "Hot Cocoa",
+            "description": "",
+            "price": "$3.00"
+        },
+        {
+            "name": "Chai Latte",
+            "description": "",
+            "price": "$4.50"
+        }
+    ],
+    "Sweet Eats": [
+        {
+            "name": "Yogurt Parfait",
+            "description": "",
+            "price": "$5.00"
+        },
+        {
+            "name": "Cinnamon Roll",
+            "description": "by Doughboy.",
+            "price": "$4.50"
+        }
+    ],
+    "Savory Eats": [
+        {
+            "name": "Sausage Rolls",
+            "description": "Regular or jalapeno by doughboy.",
+            "price": "$5.00"
+        },
+        {
+            "name": "Quiche",
+            "description": "Vegetable or bacon.",
+            "price": "$5.00"
+        }
+    ],
+    "Other Drinks": [
+        {
+            "name": "Iced Earl Grey Tea",
+            "description": "",
+            "price": "$3.00"
+        },
+        {
+            "name": "Hot Tea / Tisane",
+            "description": "",
+            "price": "$3.25"
+        }
+    ]
+}
