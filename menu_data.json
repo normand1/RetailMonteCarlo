@@ -1,0 +1,487 @@
+{
+    "Espresso Bar": [
+        {
+            "name": "Latte",
+            "description": "",
+            "price": "$4.50"
+        },
+        {
+            "name": "Iced Latte",
+            "description": "16 oz.",
+            "price": "$4.50"
+        },
+        {
+            "name": "Cappuccino",
+            "description": "6 oz.",
+            "price": "$4.25"
+        },
+        {
+            "name": "Cortado",
+            "description": "4 oz.",
+            "price": "$4.00"
+        },
+        {
+            "name": "Americano",
+            "description": "8 oz.",
+            "price": "$3.75"
+        },
+        {
+            "name": "Espresso",
+            "description": "",
+            "price": "$3.50"
+        },
+        {
+            "name": "House Coffee",
+            "description": "Hello neighbor drip west oak coffee.",
+            "price": "$3.00"
+        },
+        {
+            "name": "Cold Brew",
+            "description": "",
+            "price": "$5.00"
+        },
+        {
+            "name": "Chocolate Cold Brew",
+            "description": "",
+            "price": "$5.00"
+        },
+        {
+            "name": "N.O.L.A.",
+            "description": "",
+            "price": "$5.00"
+        },
+        {
+            "name": "Cold Brew Float",
+            "description": "",
+            "price": "$5.75"
+        },
+        {
+            "name": "Espresso Milkshake",
+            "description": "",
+            "price": "$5.50"
+        },
+        {
+            "name": "Affogato",
+            "description": "",
+            "price": "$4.00"
+        },
+        {
+            "name": "Hot Cocoa",
+            "description": "",
+            "price": "$3.00"
+        },
+        {
+            "name": "Chai Latte",
+            "description": "",
+            "price": "$4.50"
+        },
+        {
+            "name": "Tea Fog",
+            "description": "",
+            "price": "$4.50"
+        },
+        {
+            "name": "Babyccino",
+            "description": "3 oz.",
+            "price": "$1.50"
+        },
+        {
+            "name": "Yogurt Parfait",
+            "description": "",
+            "price": "$5.00"
+        },
+        {
+            "name": "Cinnamon Roll",
+            "description": "by Doughboy.",
+            "price": "$4.50"
+        }
+    ],
+    "Coffee": [
+        {
+            "name": "Latte",
+            "description": "",
+            "price": "$4.50"
+        },
+        {
+            "name": "Iced Latte",
+            "description": "16 oz.",
+            "price": "$4.50"
+        },
+        {
+            "name": "Cappuccino",
+            "description": "6 oz.",
+            "price": "$4.25"
+        },
+        {
+            "name": "Cortado",
+            "description": "4 oz.",
+            "price": "$4.00"
+        },
+        {
+            "name": "Americano",
+            "description": "8 oz.",
+            "price": "$3.75"
+        },
+        {
+            "name": "Espresso",
+            "description": "",
+            "price": "$3.50"
+        },
+        {
+            "name": "House Coffee",
+            "description": "Hello neighbor drip west oak coffee.",
+            "price": "$3.00"
+        },
+        {
+            "name": "Cold Brew",
+            "description": "",
+            "price": "$5.00"
+        },
+        {
+            "name": "Chocolate Cold Brew",
+            "description": "",
+            "price": "$5.00"
+        },
+        {
+            "name": "N.O.L.A.",
+            "description": "",
+            "price": "$5.00"
+        },
+        {
+            "name": "Cold Brew Float",
+            "description": "",
+            "price": "$5.75"
+        },
+        {
+            "name": "Espresso Milkshake",
+            "description": "",
+            "price": "$5.50"
+        },
+        {
+            "name": "Affogato",
+            "description": "",
+            "price": "$4.00"
+        },
+        {
+            "name": "Hot Cocoa",
+            "description": "",
+            "price": "$3.00"
+        },
+        {
+            "name": "Chai Latte",
+            "description": "",
+            "price": "$4.50"
+        },
+        {
+            "name": "Tea Fog",
+            "description": "",
+            "price": "$4.50"
+        },
+        {
+            "name": "Babyccino",
+            "description": "3 oz.",
+            "price": "$1.50"
+        },
+        {
+            "name": "Yogurt Parfait",
+            "description": "",
+            "price": "$5.00"
+        },
+        {
+            "name": "Cinnamon Roll",
+            "description": "by Doughboy.",
+            "price": "$4.50"
+        }
+    ],
+    "Cold Favorites": [
+        {
+            "name": "Latte",
+            "description": "",
+            "price": "$4.50"
+        },
+        {
+            "name": "Iced Latte",
+            "description": "16 oz.",
+            "price": "$4.50"
+        },
+        {
+            "name": "Cappuccino",
+            "description": "6 oz.",
+            "price": "$4.25"
+        },
+        {
+            "name": "Cortado",
+            "description": "4 oz.",
+            "price": "$4.00"
+        },
+        {
+            "name": "Americano",
+            "description": "8 oz.",
+            "price": "$3.75"
+        },
+        {
+            "name": "Espresso",
+            "description": "",
+            "price": "$3.50"
+        },
+        {
+            "name": "House Coffee",
+            "description": "Hello neighbor drip west oak coffee.",
+            "price": "$3.00"
+        },
+        {
+            "name": "Cold Brew",
+            "description": "",
+            "price": "$5.00"
+        },
+        {
+            "name": "Chocolate Cold Brew",
+            "description": "",
+            "price": "$5.00"
+        },
+        {
+            "name": "N.O.L.A.",
+            "description": "",
+            "price": "$5.00"
+        },
+        {
+            "name": "Cold Brew Float",
+            "description": "",
+            "price": "$5.75"
+        },
+        {
+            "name": "Espresso Milkshake",
+            "description": "",
+            "price": "$5.50"
+        },
+        {
+            "name": "Affogato",
+            "description": "",
+            "price": "$4.00"
+        },
+        {
+            "name": "Hot Cocoa",
+            "description": "",
+            "price": "$3.00"
+        },
+        {
+            "name": "Chai Latte",
+            "description": "",
+            "price": "$4.50"
+        },
+        {
+            "name": "Tea Fog",
+            "description": "",
+            "price": "$4.50"
+        },
+        {
+            "name": "Babyccino",
+            "description": "3 oz.",
+            "price": "$1.50"
+        },
+        {
+            "name": "Yogurt Parfait",
+            "description": "",
+            "price": "$5.00"
+        },
+        {
+            "name": "Cinnamon Roll",
+            "description": "by Doughboy.",
+            "price": "$4.50"
+        }
+    ],
+    "Steamed & Sweet": [
+        {
+            "name": "Latte",
+            "description": "",
+            "price": "$4.50"
+        },
+        {
+            "name": "Iced Latte",
+            "description": "16 oz.",
+            "price": "$4.50"
+        },
+        {
+            "name": "Cappuccino",
+            "description": "6 oz.",
+            "price": "$4.25"
+        },
+        {
+            "name": "Cortado",
+            "description": "4 oz.",
+            "price": "$4.00"
+        },
+        {
+            "name": "Americano",
+            "description": "8 oz.",
+            "price": "$3.75"
+        },
+        {
+            "name": "Espresso",
+            "description": "",
+            "price": "$3.50"
+        },
+        {
+            "name": "House Coffee",
+            "description": "Hello neighbor drip west oak coffee.",
+            "price": "$3.00"
+        },
+        {
+            "name": "Cold Brew",
+            "description": "",
+            "price": "$5.00"
+        },
+        {
+            "name": "Chocolate Cold Brew",
+            "description": "",
+            "price": "$5.00"
+        },
+        {
+            "name": "N.O.L.A.",
+            "description": "",
+            "price": "$5.00"
+        },
+        {
+            "name": "Cold Brew Float",
+            "description": "",
+            "price": "$5.75"
+        },
+        {
+            "name": "Espresso Milkshake",
+            "description": "",
+            "price": "$5.50"
+        },
+        {
+            "name": "Affogato",
+            "description": "",
+            "price": "$4.00"
+        },
+        {
+            "name": "Hot Cocoa",
+            "description": "",
+            "price": "$3.00"
+        },
+        {
+            "name": "Chai Latte",
+            "description": "",
+            "price": "$4.50"
+        },
+        {
+            "name": "Tea Fog",
+            "description": "",
+            "price": "$4.50"
+        },
+        {
+            "name": "Babyccino",
+            "description": "3 oz.",
+            "price": "$1.50"
+        },
+        {
+            "name": "Yogurt Parfait",
+            "description": "",
+            "price": "$5.00"
+        },
+        {
+            "name": "Cinnamon Roll",
+            "description": "by Doughboy.",
+            "price": "$4.50"
+        }
+    ],
+    "Sweet Eats": [
+        {
+            "name": "Latte",
+            "description": "",
+            "price": "$4.50"
+        },
+        {
+            "name": "Iced Latte",
+            "description": "16 oz.",
+            "price": "$4.50"
+        },
+        {
+            "name": "Cappuccino",
+            "description": "6 oz.",
+            "price": "$4.25"
+        },
+        {
+            "name": "Cortado",
+            "description": "4 oz.",
+            "price": "$4.00"
+        },
+        {
+            "name": "Americano",
+            "description": "8 oz.",
+            "price": "$3.75"
+        },
+        {
+            "name": "Espresso",
+            "description": "",
+            "price": "$3.50"
+        },
+        {
+            "name": "House Coffee",
+            "description": "Hello neighbor drip west oak coffee.",
+            "price": "$3.00"
+        },
+        {
+            "name": "Cold Brew",
+            "description": "",
+            "price": "$5.00"
+        },
+        {
+            "name": "Chocolate Cold Brew",
+            "description": "",
+            "price": "$5.00"
+        },
+        {
+            "name": "N.O.L.A.",
+            "description": "",
+            "price": "$5.00"
+        },
+        {
+            "name": "Cold Brew Float",
+            "description": "",
+            "price": "$5.75"
+        },
+        {
+            "name": "Espresso Milkshake",
+            "description": "",
+            "price": "$5.50"
+        },
+        {
+            "name": "Affogato",
+            "description": "",
+            "price": "$4.00"
+        },
+        {
+            "name": "Hot Cocoa",
+            "description": "",
+            "price": "$3.00"
+        },
+        {
+            "name": "Chai Latte",
+            "description": "",
+            "price": "$4.50"
+        },
+        {
+            "name": "Tea Fog",
+            "description": "",
+            "price": "$4.50"
+        },
+        {
+            "name": "Babyccino",
+            "description": "3 oz.",
+            "price": "$1.50"
+        },
+        {
+            "name": "Yogurt Parfait",
+            "description": "",
+            "price": "$5.00"
+        },
+        {
+            "name": "Cinnamon Roll",
+            "description": "by Doughboy.",
+            "price": "$4.50"
+        }
+    ]
+}
