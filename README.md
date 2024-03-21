@@ -23,7 +23,7 @@ You can determine personas based on demographics studies for your area and the l
 3. **Dependencies**: This script uses the `random` module, which is part of the Python Standard Library and requires no additional installation.
 
 ## How to Run
-1. **Open Terminal or Command Prompt**: Navigate to the directo4y containing the downloaded script.
+1. **Open Terminal or Command Prompt**: Navigate to the directo3y containing the downloaded script.
 
 2. **Modify Presets**: `estimated_total_customers`, `num_simulations`, `personas`, `prices`, and `item_relations` should be modified to meet your needs
 
