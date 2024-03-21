@@ -2,7 +2,7 @@
 A Monte Carlo Simulation Of Customer Purchases at a Retail Store
 
 ## Overview
-This Python notebook simulates retail customer purchases based on predefined customer personas and their buying habits. It incorporates inter-item dynamics to model how the purchase of one item can influence the likelihood of purchasing another, providing a more nuanced understanding of customer behavior.
+The retail_simulation.ipynb notebook simulates retail customer purchases based on predefined customer personas and their buying habits. It incorporates inter-item dynamics to model how the purchase of one item can influence the likelihood of purchasing another, providing a more nuanced understanding of customer behavior.
 
 The `personas`, `prices`, and `item_relations` are currently customized for a cafe establishment, but these can be easily customized to your needs in the notebook directly.
 
