@@ -7,8 +7,13 @@ class CoffeeShopPriceFinder:
         self.places_finder = GooglePlacesFinder(api_key)
         self.scraper = WebsiteScraper()
 
-    def find_prices(self, location, radius=1000):
-        shops = self.places_finder.find_coffee_shops(location, radius)
+    def find_prices(
+        self,
+        location,
+        locationType,
+        radius=1000,
+    ):
+        shops = self.places_finder.find_shops(location, radius, locationType)
         for shop in shops:
             details = self.places_finder.get_place_details(shop["place_id"])
             website = details.get("website", "Website not available")

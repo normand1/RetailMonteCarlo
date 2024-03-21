@@ -8,9 +8,9 @@ class GooglePlacesFinder:
         self.client = googlemaps.Client(key=api_key)
         self.base_url = "https://maps.googleapis.com/maps/api/place/details/json"
 
-    def find_coffee_shops(self, location, radius=1000):
+    def find_shops(self, location, radius=1000, locationType="cafe"):
         places_result = self.client.places_nearby(
-            location=location, radius=radius, type="cafe"
+            location=location, radius=radius, type=locationType
         )
         results = places_result.get("results", [])
         return [results[0]] if results else None
