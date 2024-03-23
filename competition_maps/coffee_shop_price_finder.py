@@ -1,5 +1,5 @@
-from google_places_finder import GooglePlacesFinder
-from website_scraper import WebsiteScraper
+from competition_maps.google_places_finder import GooglePlacesFinder
+from scraper.website_scraper import WebsiteScraper
 
 
 class CoffeeShopPriceFinder:
