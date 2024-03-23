@@ -259,9 +259,9 @@ def boba_tea_shops_geojson(api_key, latitude, longitude, radius, keywords):
 
 # Example usage
 api_key = os.getenv("API_KEY")
-latitude = 32.96177363984826
-longitude = -97.11511862649252
-radius = 40000  # meters
+latitude = 33.101729782995356
+longitude = -97.23372386848219
+radius = 30000  # meters
 
 # 33.101729782995356, -97.23372386848219
 keywords = [

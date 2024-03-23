@@ -1,1 +1,1482 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-97.11511862649252,33.321099753496064],[-97.04045176734,33.31561859162063],[-96.96808094873631,33.29934367909502],[-96.90022908385659,33.27277536186166],[-96.83897547712614,33.23672983396064],[-96.78619049821538,33.19231323711771],[-96.7434776598971,33.14088671087229],[-96.71212498606518,33.084023623229726],[-96.69306712302206,33.02346045621647],[-96.68685917658925,32.96104299799951],[-96.69366278253719,32.89866960073362],[-96.7132444668045,32.83823330291714],[-96.7449859467442,32.78156459230484],[-96.78790567899901,32.7303765083286],[-96.84069067947587,32.68621366073656],[-96.90173742531098,32.65040658316371],[-96.96920049157276,32.6240326553077],[-97.04104746738612,32.60788462283672],[-97.11511862649252,32.60244752620044],[-97.18918978559891,32.60788462283672],[-97.26103676141227,32.6240326553077],[-97.32849982767405,32.65040658316371],[-97.38954657350916,32.68621366073656],[-97.44233157398602,32.7303765083286],[-97.48525130624084,32.78156459230484],[-97.51699278618054,32.83823330291714],[-97.53657447044785,32.89866960073362],[-97.54337807639578,32.96104299799951],[-97.53717012996297,33.02346045621647],[-97.51811226691986,33.08402362322973],[-97.48675959308794,33.14088671087229],[-97.44404675476966,33.19231323711771],[-97.3912617758589,33.23672983396064],[-97.33000816912845,33.27277536186166],[-97.26215630424872,33.29934367909502],[-97.18978548564503,33.31561859162063],[-97.11511862649252,33.321099753496064]]]},"properties":{"name":"Search Area","radius":40000}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.10903309999999,32.70698600000001]},"properties":{"id":1,"name":"rocketbelly","address":"100 W Pioneer Pkwy Ste. 156, Arlington"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.8889968,32.97434]},"properties":{"id":2,"name":"Fruitealicious Boba Tea","address":"2150 N Josey Ln Apt 100, Carrollton"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.3563487,32.7482785]},"properties":{"id":3,"name":"Happy Lemon","address":"1019 Foch St, Fort Worth"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.76852509999999,32.8597195]},"properties":{"id":4,"name":"Craft Boba Tea","address":"6105 Greenville Ave, Dallas"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7343808,32.948823]},"properties":{"id":5,"name":"His Tea","address":"221 W Polk St #105, Richardson"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7697724,32.8537415]},"properties":{"id":6,"name":"Panda Tea","address":"5521 Greenville Ave #108, Dallas"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.95970270000001,32.8537908]},"properties":{"id":7,"name":"BUBBLE SHUBBLE BOBA TEA حلال / BEST BOBA TEA IN IRVING","address":"1111 Coker St, Irving"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.90684510000001,32.9505877]},"properties":{"id":8,"name":"MILK T BAR","address":"1414 S Broadway St #3-3113, Carrollton"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.1328633,32.679396]},"properties":{"id":9,"name":"Tea Scoop Boba Tea & Smoothie","address":"4133 S Cooper St SUITE 303, Arlington"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.3580556,32.7066667]},"properties":{"id":10,"name":"Fruitealicious Bubble Tea & Smoothies","address":"3043 Greene Ave, Fort Worth"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.81768579999999,32.9549655]},"properties":{"id":11,"name":"Feng Cha - Belt Line Dallas","address":"5225 Belt Line Rd #254, Dallas"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7648305,33.0000936]},"properties":{"id":12,"name":"Rainbow Teashop Boba (Toco Toco)","address":"3801 W President George Bush Hwy #116, Plano"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4017964,32.6771232]},"properties":{"id":13,"name":"Kung Fu Tea","address":"4946 Overton Ridge Blvd, Fort Worth"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7717072,33.0279817]},"properties":{"id":14,"name":"Kung Fu Tea","address":"2001 Coit Rd Suite 137, Plano"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.8047242,33.1085339]},"properties":{"id":15,"name":"Vivi Bubble Tea","address":"3520 Preston Rd #108, Frisco"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.41538039999999,32.7295364]},"properties":{"id":16,"name":"1102 Express Bubble Tea & Coffee","address":"3204 Winthrop Ave, Fort Worth"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.69461299999999,33.06730599999999]},"properties":{"id":17,"name":"bobaLand","address":"240 Legacy Dr #110, Plano"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.9080115,32.9800541]},"properties":{"id":18,"name":"FENG CHA","address":"2528 Old Denton Rd #150, Carrollton"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.11378560000001,32.7197827]},"properties":{"id":19,"name":"Unitea Bubble Tea","address":"614 W Park Row Dr, Arlington"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.80349269999999,32.90998210000001]},"properties":{"id":20,"name":"Fat Straws Boba & Mochi Donuts (Forest)","address":"11810 Preston Rd #150, Dallas"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.78705570000001,32.8213944]},"properties":{"id":21,"name":"Kung Fu Tea","address":"3001 Knox St #107A, Dallas"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.9103902,32.9882362]},"properties":{"id":22,"name":"Gong Cha","address":"2701 Old Denton Rd Ste 120, Carrollton"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.1063054,32.7357183]},"properties":{"id":23,"name":"Kung Fu Tea","address":"101 E Abram St Suite 170, Arlington"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.8281793,32.7482307]},"properties":{"id":24,"name":"Craft Boba Tea","address":"408 N Bishop Ave # 104, Dallas"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.1319003,32.6871474]},"properties":{"id":25,"name":"1102 Bubble Tea & Bites","address":"3610 S Cooper St #110B, Arlington"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.3980143,32.6781058]},"properties":{"id":26,"name":"Kokee Tea","address":"4800 S Hulen St #250, Fort Worth"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.84172029999999,33.0270648]},"properties":{"id":27,"name":"Fat Straws Boba & Mochi Donuts (Plano)","address":"6509 W Park Blvd #425, Plano"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7006578,32.947141]},"properties":{"id":28,"name":"Happy Lemon","address":"169 N Plano Rd, Richardson"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.8878611,33.0627301]},"properties":{"id":29,"name":"Teapioca Lounge","address":"6225 N Josey Ln #114, Lewisville"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.91043850000001,32.9844759]},"properties":{"id":30,"name":"Sharetea","address":"2601 Old Denton Rd, Carrollton"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.28950800000001,32.862718]},"properties":{"id":31,"name":"Gong Cha Fort Worth","address":"6650 N Beach St Ste 100, Fort Worth"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7094977,33.0294854]},"properties":{"id":32,"name":"Gong Cha Plano","address":"2205 N Central Expy, Plano"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.8183945,32.9277378]},"properties":{"id":33,"name":"Sharetea","address":"13350 Dallas Pkwy #410, Dallas"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7160404,32.9770868]},"properties":{"id":34,"name":"Kung Fu Tea","address":"2067 N Central Expy #100, Richardson"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.82904459999999,32.7783711]},"properties":{"id":35,"name":"Craft Boba Tea","address":"320 Singleton Blvd #180, Dallas"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.0462077,32.7101563]},"properties":{"id":36,"name":"Gong Cha Grand Prairie","address":"2625 W Pioneer Pkwy #202, Grand Prairie"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.81694189999999,32.9334484]},"properties":{"id":37,"name":"Fat Straws Boba & Mochi Donuts (Alpha & Noel)","address":"5301 Alpha Rd #38, Dallas"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.81008829999999,33.0998463]},"properties":{"id":38,"name":"Kung Fu Tea","address":"Between (JCPenney and Dick’s Sporting Good’s) at Stonebriar Centre, 2601 Preston Rd Kiosk #5614, Frisco"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7394984,32.976925]},"properties":{"id":39,"name":"Ding Tea Richardson","address":"581 W Campbell Rd, Richardson"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.13010489999999,32.6798877]},"properties":{"id":40,"name":"Kokee Tea","address":"3811 S Cooper St #2052, Arlington"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.9078453,32.9815723]},"properties":{"id":41,"name":"Kung Fu Tea","address":"2540 Old Denton Rd Suite 122, Carrollton"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.30514660000001,32.9145582]},"properties":{"id":42,"name":"Ding tea - Fort Worth","address":"3529 Heritage Trace Pkwy #157, Fort Worth"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.0417512,32.9679736]},"properties":{"id":43,"name":"Bubble Tea Bliss","address":"3000 Grapevine Mills Pkwy, Grapevine"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.08107369999999,32.7077872]},"properties":{"id":44,"name":"Happy Lemon","address":"1818 E Pioneer Pkwy suite 166, Arlington"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.76241549999999,32.9777365]},"properties":{"id":45,"name":"Fat Straws Boba & Mochi Donuts (Richardson)","address":"1251 W Campbell Rd #230, Richardson"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.81213629999999,33.1034194]},"properties":{"id":46,"name":"Fruitealicious Bubble Tea & Smoothies","address":"8300 Gaylord Pkwy Suite#14, Frisco"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.1352208,32.6710216]},"properties":{"id":47,"name":"Royal Tea","address":"4654 S Cooper St #340, Arlington"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.9084722,32.9847829]},"properties":{"id":48,"name":"R&B TEA CARROLLTON","address":"1017 E Trinity Mls Rd Apt 100, Carrollton"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.73228739999999,33.1298128]},"properties":{"id":49,"name":"Delish Bubble Tea","address":"8930 State Hwy 121, McKinney"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.32355849999999,32.9029121]},"properties":{"id":50,"name":"Sharetea Fort Worth","address":"8949 Tehama Ridge Pkwy, Fort Worth"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.6924531,33.0665652]},"properties":{"id":51,"name":"Boba Republic Plano","address":"100 Legacy Dr #102, Plano"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.3970461,32.6749076]},"properties":{"id":52,"name":"Presotea Fort Worth","address":"4975 S Hulen St, Fort Worth"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.8413502,32.9548007]},"properties":{"id":53,"name":"Boba Tea & Treats","address":"4135 Belt Line Rd, Addison"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.11535649999999,32.7238035]},"properties":{"id":54,"name":"DING TEA S Cooper St","address":"1302 S Cooper St, Arlington"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7296959,32.9475131]},"properties":{"id":55,"name":"Boba Latte","address":"115 S Greenville Ave # 113, Richardson"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.1685524,33.2292705]},"properties":{"id":56,"name":"Kung Fu Tea","address":"2735 W University Dr #1061, Denton"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.29030639999999,32.8749967]},"properties":{"id":57,"name":"Feng Cha-North Fort Worth","address":"7451 N Beach St Ste 180, Fort Worth"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.06534800000001,32.6614883]},"properties":{"id":58,"name":"Dingtea Arlington","address":"2425 SE Green Oaks Blvd Ste 115, Arlington"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.0540454,32.6795578]},"properties":{"id":59,"name":"Kokee Tea","address":"2950 I-20 Frontage Rd #350, Grand Prairie"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.8042045,33.1119225]},"properties":{"id":60,"name":"TP Tea","address":"9188 Prestmont Pl #106, Frisco"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.76982,32.907896]},"properties":{"id":61,"name":"Gong Cha Dallas","address":"11613 N Central Expy #106a, Dallas"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.158514,33.2301203]},"properties":{"id":62,"name":"Sharetea Denton","address":"2200 W University Dr Suite 160, Denton"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.0606077,32.646518]},"properties":{"id":63,"name":"Kung Fu Tea","address":"5220 S State Hwy 360 #120, Grand Prairie"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.8030139,33.1103436]},"properties":{"id":64,"name":"Kung Fu Tea","address":"9292 Warren Pkwy #230, Frisco"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7090765,33.0680567]},"properties":{"id":65,"name":"Boba Boba","address":"6900 Alma Dr Suite#220, Plano"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.8048561,33.0893713]},"properties":{"id":66,"name":"The Alley Tea - Café - Life","address":"8240 Preston Rd Suite 177, Plano"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7980161,33.2227421]},"properties":{"id":67,"name":"Kung Fu Tea","address":"1151 S Preston Rd suite 20, Prosper"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.9864336,33.0045746]},"properties":{"id":68,"name":"Boba World","address":"291 E Round Grove Rd #190, Lewisville"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.91042329999999,32.9866546]},"properties":{"id":69,"name":"Tiger Sugar","address":"2625 Old Denton Rd #555, Carrollton"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.8390428,33.1529627]},"properties":{"id":70,"name":"Fruitealicious","address":"5566 Main St #170, Frisco"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.84094189999999,33.0276439]},"properties":{"id":71,"name":"Heavenly Kup Boba,Taiyaki, and Shaved ice","address":"6505 W Park Blvd #322, Plano"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.1342784,32.6826452]},"properties":{"id":72,"name":"Sharetea Arlington","address":"3810 S Cooper St Suite 148, Arlington"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.72767449999999,32.9536464]},"properties":{"id":73,"name":"TP Tea","address":"400 N Greenville Ave #14, Richardson"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.6948409,33.0578339]},"properties":{"id":74,"name":"Tiger Sugar","address":"101 W Spring Creek Pkwy # 735, Plano"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7074798,33.0400518]},"properties":{"id":75,"name":"Happy Lemon","address":"301 W Parker Rd #103, Plano"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.99320399999999,32.9735579]},"properties":{"id":76,"name":"Feng Cha Coppell","address":"230 N Denton Tap Rd Ste 109, Coppell"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.0458285,32.648385]},"properties":{"id":77,"name":"Teagether- One Like No Other","address":"2580 W Camp Wisdom Rd STE 400, Grand Prairie"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7311063,32.948599]},"properties":{"id":78,"name":"Bubbleology","address":"118 E Belt Line Rd, Richardson"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.084752,32.708508]},"properties":{"id":79,"name":"Tea Cup","address":"1700 E Pioneer Pkwy, Arlington"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.16663659999999,32.85245099999999]},"properties":{"id":80,"name":"Sphere Boba & Tea","address":"217 Harwood Rd #112, Bedford"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.1857493,32.8246984]},"properties":{"id":81,"name":"Totally Tea","address":"736 W Pipeline Rd, Hurst"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7274279,32.9542479]},"properties":{"id":82,"name":"Tapioca House","address":"400 N Greenville Ave #23, Richardson"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.9112399,32.9839729]},"properties":{"id":83,"name":"MÖGE TEE Carrollton","address":"1016 W Trinity Mills Rd #100, Carrollton"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.35640339999999,32.6622102]},"properties":{"id":84,"name":"Rams Boba","address":"5612 McCart Ave, Fort Worth"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.0963663,32.7561306]},"properties":{"id":85,"name":"R&B Tea Arlington","address":"915 E Road to Six Flags St Ste 102, Arlington"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.8276164,33.0445935]},"properties":{"id":86,"name":"Meetcha Bubble Tea Cafe","address":"5960 W Parker Rd #294, Plano"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.13488609999999,32.9402302]},"properties":{"id":87,"name":"Unitea Bubble Tea","address":"1151 E Southlake Blvd, Southlake"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7278364,32.991738]},"properties":{"id":88,"name":"Feng Cha - Richardson","address":"2701 Custer Pkwy, Richardson"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.80269779999999,33.1100803]},"properties":{"id":89,"name":"BenGong's Tea Frisco TX","address":"9292 Warren Pkwy #200/102, Frisco"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.95712809999999,32.9203438]},"properties":{"id":90,"name":"Let's Roll Ice Cream & Boba Tea","address":"8150 N MacArthur Blvd #168, Irving"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.9617476,32.8378403]},"properties":{"id":91,"name":"Totally Tea and COFFEE","address":"1221 W Airport Fwy # 111, Irving"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7080026,33.0555351]},"properties":{"id":92,"name":"HOJA Bubble Tea & Asian Street Food","address":"812 W Spring Creek Pkwy suite 208, Plano"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.8610248,33.0452398]},"properties":{"id":93,"name":"Bubble Bee","address":"2425 W Parker Rd Bldg 1 ste 5, Carrollton"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.1052213,33.1878654]},"properties":{"id":94,"name":"Bubble Well","address":"2215 S Loop 288 Suite 310, Denton"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.2002438,32.8300589]},"properties":{"id":95,"name":"Totally Tea","address":"1101 Melbourne Rd, Hurst"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.69672390000001,33.03889520000001]},"properties":{"id":96,"name":"Teavalley","address":"3320 K Ave suite M118, Plano"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.11922229999999,32.9403878]},"properties":{"id":97,"name":"Kung Fu Tea","address":"2175 E Southlake Blvd #130, Southlake"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7170165,33.1516196]},"properties":{"id":98,"name":"Magic Cup McKinney","address":"7701 Stacy Rd Ste 100, McKinney"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7712675,32.9791133]},"properties":{"id":99,"name":"TeaLatte Bar","address":"7517 Campbell Rd #608, Dallas"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.35306949999999,32.7526193]},"properties":{"id":100,"name":"P'tit Tea Maison","address":"2600 W 7th St #144, Fort Worth"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.1957067,32.6806038]},"properties":{"id":101,"name":"BOBO Bites","address":"4201 W Green Oaks Blvd Unit 416, Arlington"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.1488811,32.7206302]},"properties":{"id":102,"name":"My Boba Shop","address":"1509 S Bowen Rd, Pantego"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.732393,33.134485]},"properties":{"id":103,"name":"Boba Bros","address":"6951 S Custer Rd Ste 500, McKinney"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.09826559999999,32.7964376]},"properties":{"id":104,"name":"Magic Cup Arlington","address":"3970 N Collins St Ste 160, Arlington"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.76713989999999,33.205503]},"properties":{"id":105,"name":"hello boba","address":"260 N Coit Rd Suite 100, McKinney"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.69936709999999,32.9469837]},"properties":{"id":106,"name":"Gong Cha Richardson","address":"1425 E Belt Line Rd #102, Richardson"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.3185544,32.9153517]},"properties":{"id":107,"name":"Gong Cha Victory Heritage","address":"9615 N Fwy, Fort Worth"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.8916294,33.148688]},"properties":{"id":108,"name":"TeaLatte Bar","address":"8425 FM 423 #190, Frisco"}},{"type":"Feature","properties":{"marker-color":"#1c5932","marker-size":"medium","marker-symbol":"cafe","name":"Timekeeper's Haus","id":109},"geometry":{"coordinates":[-97.23504427657171,33.13097255140205],"type":"Point"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.28144581829838,33.02564523168062]},"properties":{"name":"Champ Donut Company","address":"3556 TX-114 #402, Fort Worth, TX 76177","id":110},"id":110},{"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#fb0404","fill-opacity":0.5,"id":111},"geometry":{"type":"Polygon","coordinates":[[[-97.23371531116045,33.241179481034166],[-97.24681463221584,33.240640564032944],[-97.25978731971753,33.23902902291537],[-97.27250797822776,33.23636043639754],[-97.2848536758929,33.23266059971977],[-97.29670514476663,33.227965272533055],[-97.30794794378936,33.22231982955001],[-97.31847357266619,33.21577881751882],[-97.3281805254625,33.20840542302263],[-97.33697527343702,33.20027085649813],[-97.34477316744874,33.191453658695735],[-97.35149925118841,33.1820389365612],[-97.35708897748837,33.17211753619674],[-97.36148882103544,33.161785161152494],[-97.36465678193954,33.15114144480168],[-97.36656277577615,33.140288985960495],[-97.36718890691039,33.129332357224925],[-97.36652962310762,33.11837709570959],[-97.3645917506279,33.10752868598838],[-97.36139441017345,33.09689154505402],[-97.356968815201,33.08656801903634],[-97.3513579552109,33.07665740124919],[-97.3446161676748,33.06725498087812],[-97.3368086032558,33.05845113127866],[-97.32801058990256,33.05033044643476],[-97.31830690225581,33.04297093363239],[-97.30779094359197,33.03644326984178],[-97.29656384823588,33.03081012867853],[-97.2847335130067,33.026125584135585],[-97.27241356681252,33.02243459655083],[-97.25972228798247,33.01977258550578],[-97.24678147931814,33.018165093545825],[-97.23371531116045,33.017627543778076],[-97.22064914300275,33.018165093545825],[-97.20770833433843,33.01977258550578],[-97.19501705550839,33.02243459655083],[-97.1826971093142,33.026125584135585],[-97.17086677408501,33.03081012867853],[-97.15963967872894,33.03644326984178],[-97.14912372006508,33.04297093363239],[-97.13942003241833,33.05033044643476],[-97.13062201906509,33.05845113127866],[-97.1228144546461,33.06725498087812],[-97.11607266710999,33.07665740124919],[-97.11046180711989,33.08656801903634],[-97.10603621214744,33.09689154505402],[-97.102838871693,33.10752868598838],[-97.10090099921327,33.11837709570959],[-97.10024171541052,33.129332357224925],[-97.10086784654474,33.140288985960495],[-97.10277384038136,33.15114144480168],[-97.10594180128545,33.161785161152494],[-97.11034164483252,33.17211753619674],[-97.11593137113249,33.1820389365612],[-97.12265745487215,33.191453658695735],[-97.13045534888388,33.20027085649813],[-97.13925009685842,33.20840542302263],[-97.1489570496547,33.21577881751882],[-97.15948267853155,33.22231982955001],[-97.17072547755426,33.227965272533055],[-97.18257694642799,33.23266059971977],[-97.19492264409314,33.23636043639754],[-97.20764330260336,33.23902902291537],[-97.22061599010506,33.240640564032944],[-97.23371531116045,33.241179481034166]]]}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -97.23372386848219,
+                33.37122436823121
+              ],
+              [
+                -97.1776904449388,
+                33.367117613249874
+              ],
+              [
+                -97.12337498211934,
+                33.35492327231432
+              ],
+              [
+                -97.07244135375937,
+                33.335015150826955
+              ],
+              [
+                -97.02644713844298,
+                33.308003173918905
+              ],
+              [
+                -96.98679508148427,
+                33.2747142378189
+              ],
+              [
+                -96.954689849798,
+                33.236166333142044
+              ],
+              [
+                -96.93110146672963,
+                33.19353681973388
+              ],
+              [
+                -96.91673652752702,
+                33.148125914733384
+              ],
+              [
+                -96.91201797923911,
+                33.10131659298325
+              ],
+              [
+                -96.91707392116984,
+                33.05453218895482
+              ],
+              [
+                -96.93173556161585,
+                33.00919303191239
+              ],
+              [
+                -96.95554416817842,
+                32.96667344343839
+              ],
+              [
+                -96.98776658298982,
+                32.92826038278746
+              ],
+              [
+                -97.02741864685333,
+                32.89511494607267
+              ],
+              [
+                -97.07329568962342,
+                32.86823781576549
+              ],
+              [
+                -97.1240090968872,
+                32.848439623157326
+              ],
+              [
+                -97.17802785155847,
+                32.83631703364902
+              ],
+              [
+                -97.23372386848219,
+                32.832235197759495
+              ],
+              [
+                -97.28941988540592,
+                32.83631703364902
+              ],
+              [
+                -97.34343864007718,
+                32.848439623157326
+              ],
+              [
+                -97.39415204734097,
+                32.86823781576549
+              ],
+              [
+                -97.44002909011105,
+                32.89511494607267
+              ],
+              [
+                -97.47968115397457,
+                32.92826038278746
+              ],
+              [
+                -97.51190356878597,
+                32.96667344343839
+              ],
+              [
+                -97.53571217534854,
+                33.00919303191239
+              ],
+              [
+                -97.55037381579454,
+                33.05453218895482
+              ],
+              [
+                -97.55542975772528,
+                33.10131659298325
+              ],
+              [
+                -97.55071120943737,
+                33.148125914733384
+              ],
+              [
+                -97.53634627023476,
+                33.19353681973388
+              ],
+              [
+                -97.51275788716639,
+                33.236166333142044
+              ],
+              [
+                -97.48065265548011,
+                33.2747142378189
+              ],
+              [
+                -97.44100059852141,
+                33.308003173918905
+              ],
+              [
+                -97.39500638320501,
+                33.335015150826955
+              ],
+              [
+                -97.34407275484504,
+                33.35492327231432
+              ],
+              [
+                -97.28975729202558,
+                33.367117613249874
+              ],
+              [
+                -97.23372386848219,
+                33.37122436823121
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "name": "Search Area",
+          "radius": 30000
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.9864336,
+            33.0045746
+          ]
+        },
+        "properties": {
+          "id": 1,
+          "name": "Boba World",
+          "address": "291 E Round Grove Rd #190, Lewisville"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.95970270000001,
+            32.8537908
+          ]
+        },
+        "properties": {
+          "id": 2,
+          "name": "BUBBLE SHUBBLE BOBA TEA \u062d\u0644\u0627\u0644 / BEST BOBA TEA IN IRVING",
+          "address": "1111 Coker St, Irving"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.95712809999999,
+            32.9203438
+          ]
+        },
+        "properties": {
+          "id": 3,
+          "name": "Let's Roll Ice Cream & Boba Tea",
+          "address": "8150 N MacArthur Blvd #168, Irving"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.0689779,
+            33.0132337
+          ]
+        },
+        "properties": {
+          "id": 4,
+          "name": "Snowy Bingsu & Boba",
+          "address": "2601 Flower Mound Rd #111, Flower Mound"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.16663659999999,
+            32.85245099999999
+          ]
+        },
+        "properties": {
+          "id": 5,
+          "name": "Sphere Boba & Tea",
+          "address": "217 Harwood Rd #112, Bedford"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.2912855,
+            32.8718226
+          ]
+        },
+        "properties": {
+          "id": 6,
+          "name": "Noodles @ Boba Tea House",
+          "address": "7355 N Beach St, Fort Worth"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.32355849999999,
+            32.9029121
+          ]
+        },
+        "properties": {
+          "id": 7,
+          "name": "Sharetea Fort Worth",
+          "address": "8949 Tehama Ridge Pkwy, Fort Worth"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.0417512,
+            32.9679736
+          ]
+        },
+        "properties": {
+          "id": 8,
+          "name": "Bubble Tea Bliss",
+          "address": "3000 Grapevine Mills Pkwy, Grapevine"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.1685524,
+            33.2292705
+          ]
+        },
+        "properties": {
+          "id": 9,
+          "name": "Kung Fu Tea",
+          "address": "2735 W University Dr #1061, Denton"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.158514,
+            33.2301203
+          ]
+        },
+        "properties": {
+          "id": 10,
+          "name": "Sharetea Denton",
+          "address": "2200 W University Dr Suite 160, Denton"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.0688182,
+            33.0743072
+          ]
+        },
+        "properties": {
+          "id": 11,
+          "name": "Boba Bar",
+          "address": "2570 Justin Rd #175, Highland Village"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.28892119999999,
+            32.8783482
+          ]
+        },
+        "properties": {
+          "id": 12,
+          "name": "Boba Milk Tea Snob",
+          "address": "7630 N Beach St #110, Fort Worth"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.9646739,
+            32.8843605
+          ]
+        },
+        "properties": {
+          "id": 13,
+          "name": "Totally Tea & Coffee",
+          "address": "5483 N MacArthur Blvd, Irving"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.181593,
+            32.858903
+          ]
+        },
+        "properties": {
+          "id": 14,
+          "name": "Boba tea and flavor of Asia",
+          "address": "737 Grapevine Hwy, Hurst"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.3140663,
+            32.9049053
+          ]
+        },
+        "properties": {
+          "id": 15,
+          "name": "Daboba",
+          "address": "9140 N Fwy, Fort Worth"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.99320399999999,
+            32.9735579
+          ]
+        },
+        "properties": {
+          "id": 16,
+          "name": "Feng Cha Coppell",
+          "address": "230 N Denton Tap Rd Ste 109, Coppell"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.11922229999999,
+            32.9403878
+          ]
+        },
+        "properties": {
+          "id": 17,
+          "name": "Kung Fu Tea",
+          "address": "2175 E Southlake Blvd #130, Southlake"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.1039339,
+            33.145163
+          ]
+        },
+        "properties": {
+          "id": 18,
+          "name": "Aliboba Cafe Sushi and Grill",
+          "address": "5017 Teasley Ln #129, Denton"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.12978509999999,
+            32.8516798
+          ]
+        },
+        "properties": {
+          "id": 19,
+          "name": "Holey Boba & Donuts",
+          "address": "2816 Central Dr, Bedford"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.9913521,
+            32.8393761
+          ]
+        },
+        "properties": {
+          "id": 20,
+          "name": "Zero Degrees",
+          "address": "3401 W Airport Fwy # 138, Irving"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.9617476,
+            32.8378403
+          ]
+        },
+        "properties": {
+          "id": 21,
+          "name": "Totally Tea and COFFEE",
+          "address": "1221 W Airport Fwy # 111, Irving"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.9706149,
+            33.0026922
+          ]
+        },
+        "properties": {
+          "id": 22,
+          "name": "Gong Cha Lewisville",
+          "address": "2405 S Stemmons Fwy #132, Lewisville"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.2630348,
+            32.8747497
+          ]
+        },
+        "properties": {
+          "id": 23,
+          "name": "Blasty Boba & Baguette",
+          "address": "5601 Basswood Blvd Ste 189, Fort Worth"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.01318080000001,
+            33.005175
+          ]
+        },
+        "properties": {
+          "id": 24,
+          "name": "Feng Cha - Lewisville",
+          "address": "980 W Round Grove Rd #180, Lewisville"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.9950129,
+            32.8404735
+          ]
+        },
+        "properties": {
+          "id": 25,
+          "name": "Totally Tea",
+          "address": "3880 Irving Mall, Irving"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.9607904,
+            32.9704726
+          ]
+        },
+        "properties": {
+          "id": 26,
+          "name": "Hello Boba",
+          "address": "950 E Sandy Lake Rd, Coppell"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.23867589999999,
+            32.858367
+          ]
+        },
+        "properties": {
+          "id": 27,
+          "name": "1102 Bubble Tea & Coffee",
+          "address": "6245 Rufe Snow Dr Suite 120, Watauga"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.28950800000001,
+            32.862718
+          ]
+        },
+        "properties": {
+          "id": 28,
+          "name": "Gong Cha Fort Worth",
+          "address": "6650 N Beach St Ste 100, Fort Worth"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.0502126,
+            33.0394243
+          ]
+        },
+        "properties": {
+          "id": 29,
+          "name": "1102 Bubble Tea & Coffee",
+          "address": "330 Parker Square Rd, Flower Mound"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.1052213,
+            33.1878654
+          ]
+        },
+        "properties": {
+          "id": 30,
+          "name": "Bubble Well",
+          "address": "2215 S Loop 288 Suite 310, Denton"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.3185544,
+            32.9153517
+          ]
+        },
+        "properties": {
+          "id": 31,
+          "name": "Gong Cha Victory Heritage",
+          "address": "9615 N Fwy, Fort Worth"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.0711975,
+            33.0346843
+          ]
+        },
+        "properties": {
+          "id": 32,
+          "name": "TeaLatte Bar",
+          "address": "2701 Cross Timbers Rd Ste 238, Flower Mound"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.101798,
+            32.8750144
+          ]
+        },
+        "properties": {
+          "id": 33,
+          "name": "Sharetea HEB",
+          "address": "1200 Chisholm Trail #600, Euless"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.9323983,
+            33.0195289
+          ]
+        },
+        "properties": {
+          "id": 34,
+          "name": "Tea Top Carrollton",
+          "address": "4070 State Hwy 121 Suite 408, Carrollton"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.9103902,
+            32.9882362
+          ]
+        },
+        "properties": {
+          "id": 35,
+          "name": "Gong Cha",
+          "address": "2701 Old Denton Rd Ste 120, Carrollton"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.9917376,
+            32.8416763
+          ]
+        },
+        "properties": {
+          "id": 36,
+          "name": "Feng Cha Irving",
+          "address": "2612 N Belt Line Rd, Irving"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.93255219999999,
+            33.2203233
+          ]
+        },
+        "properties": {
+          "id": 37,
+          "name": "TEACo",
+          "address": "26742 E University Dr #240, Aubrey"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.9112399,
+            32.9839729
+          ]
+        },
+        "properties": {
+          "id": 38,
+          "name": "M\u00d6GE TEE Carrollton",
+          "address": "1016 W Trinity Mills Rd #100, Carrollton"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.29030639999999,
+            32.8749967
+          ]
+        },
+        "properties": {
+          "id": 39,
+          "name": "Feng Cha-North Fort Worth",
+          "address": "7451 N Beach St Ste 180, Fort Worth"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.9121864,
+            32.9851372
+          ]
+        },
+        "properties": {
+          "id": 40,
+          "name": "Gelato & bubble tea",
+          "address": "2625 Old Denton Rd Ste 240, Carrollton"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.30514660000001,
+            32.9145582
+          ]
+        },
+        "properties": {
+          "id": 41,
+          "name": "Ding tea - Fort Worth",
+          "address": "3529 Heritage Trace Pkwy #157, Fort Worth"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.91043850000001,
+            32.9844759
+          ]
+        },
+        "properties": {
+          "id": 42,
+          "name": "Sharetea",
+          "address": "2601 Old Denton Rd, Carrollton"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.0427295,
+            32.9640267
+          ]
+        },
+        "properties": {
+          "id": 43,
+          "name": "Totally tea",
+          "address": "Grapevine Mills Pkwy, Grapevine"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.977336,
+            32.838463
+          ]
+        },
+        "properties": {
+          "id": 44,
+          "name": "Foo's Asian Grill & Bubble Tea",
+          "address": "2403 W Airport Fwy A, Irving"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.13488609999999,
+            32.9402302
+          ]
+        },
+        "properties": {
+          "id": 45,
+          "name": "Unitea Bubble Tea",
+          "address": "1151 E Southlake Blvd, Southlake"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.2002438,
+            32.8300589
+          ]
+        },
+        "properties": {
+          "id": 46,
+          "name": "Totally Tea",
+          "address": "1101 Melbourne Rd, Hurst"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.1074924,
+            32.9374903
+          ]
+        },
+        "properties": {
+          "id": 47,
+          "name": "Boba Chicken",
+          "address": "2801 E Southlake Blvd Ste 100, Southlake"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.1847719,
+            32.8487663
+          ]
+        },
+        "properties": {
+          "id": 48,
+          "name": "FENG CHA - Hurst",
+          "address": "1826 Precinct Line Rd, Hurst"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.91042329999999,
+            32.9866546
+          ]
+        },
+        "properties": {
+          "id": 49,
+          "name": "Tiger Sugar",
+          "address": "2625 Old Denton Rd #555, Carrollton"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.14544649999999,
+            33.21475
+          ]
+        },
+        "properties": {
+          "id": 50,
+          "name": "Taiyaki Sweets",
+          "address": "1206 W Hickory St, Denton"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.99422,
+            32.9705781
+          ]
+        },
+        "properties": {
+          "id": 51,
+          "name": "TeaLatte Bar",
+          "address": "110 W Sandy Lake Rd #108, Coppell"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.1017447,
+            32.8806735
+          ]
+        },
+        "properties": {
+          "id": 52,
+          "name": "iTea Lounge",
+          "address": "1301 W Glade Rd #194, Euless"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.19936949999999,
+            32.8304149
+          ]
+        },
+        "properties": {
+          "id": 53,
+          "name": "Happy Lemon Hurst (North East Mall)",
+          "address": "1101 Melbourne Rd North East Mall Food Court, Hurst"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.378479,
+            32.8760431
+          ]
+        },
+        "properties": {
+          "id": 54,
+          "name": "Feng Cha Saginaw",
+          "address": "1029 N Saginaw Blvd E8, Saginaw"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.9340173,
+            33.0205947
+          ]
+        },
+        "properties": {
+          "id": 55,
+          "name": "OneZo Texas - Carrollton",
+          "address": "4060 State Hwy 121 suite 128, Carrollton"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.2569006,
+            32.892859
+          ]
+        },
+        "properties": {
+          "id": 56,
+          "name": "Melby's Coffee & Tea House",
+          "address": "8420 Denton Hwy #111, Watauga"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.02013799999999,
+            33.044205
+          ]
+        },
+        "properties": {
+          "id": 57,
+          "name": "Yogurt Zone",
+          "address": "1093 W Main St #200, Lewisville"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.9124322,
+            32.9850835
+          ]
+        },
+        "properties": {
+          "id": 58,
+          "name": "Escap\u00e9 Rice Cake and Boba",
+          "address": "2625 Old Denton Rd Apt 225, Carrollton"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.9719638,
+            33.0025281
+          ]
+        },
+        "properties": {
+          "id": 59,
+          "name": "Hannassi Tea latte",
+          "address": "2401 S Stemmons Fwy, Lewisville"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.99428379999999,
+            32.9190348
+          ]
+        },
+        "properties": {
+          "id": 60,
+          "name": "Thai Tea Asian Fusion Cafe",
+          "address": "8251 N Belt Line Rd, Irving"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.911422,
+            32.9879925
+          ]
+        },
+        "properties": {
+          "id": 61,
+          "name": "Redstraw Tea Bar",
+          "address": "1012 Mac Arthur Dr Unit #148, Carrollton"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.90934159999999,
+            32.9984549
+          ]
+        },
+        "properties": {
+          "id": 62,
+          "name": "TeaLatte Bar",
+          "address": "3052 Old Denton Rd Apt 106, Carrollton"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.9118313,
+            32.986457
+          ]
+        },
+        "properties": {
+          "id": 63,
+          "name": "Mango Mango Dessert",
+          "address": "2625 Old Denton Rd #412, Carrollton"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.9122795,
+            32.9862427
+          ]
+        },
+        "properties": {
+          "id": 64,
+          "name": "Cocohodo Dallas Cafe",
+          "address": "2625 Old Denton Rd suite 340, Carrollton"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.13216489999999,
+            32.8517671
+          ]
+        },
+        "properties": {
+          "id": 65,
+          "name": "HTeaO - Bedford",
+          "address": "2128 Harwood Rd, Bedford"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.1594837,
+            33.2291556
+          ]
+        },
+        "properties": {
+          "id": 66,
+          "name": "HTeaO - Denton",
+          "address": "2211 W University Dr, Denton"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.9588141,
+            33.2224446
+          ]
+        },
+        "properties": {
+          "id": 67,
+          "name": "HTeaO - Providence Village",
+          "address": "26619 US-380 West, Providence Village"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#1c5932",
+          "marker-size": "medium",
+          "marker-symbol": "cafe",
+          "name": "Timekeeper's Haus",
+          "id": 68
+        },
+        "geometry": {
+          "coordinates": [
+            -97.23504427657171,
+            33.13097255140205
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.28144581829838,
+            33.02564523168062
+          ]
+        },
+        "properties": {
+          "name": "Champ Donut Company",
+          "address": "3556 TX-114 #402, Fort Worth, TX 76177",
+          "id": 69
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "stroke": "#555555",
+          "stroke-width": 2,
+          "stroke-opacity": 1,
+          "fill": "#fb0404",
+          "fill-opacity": 0.5,
+          "id": 70
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -97.23371531116045,
+                33.241179481034166
+              ],
+              [
+                -97.24681463221584,
+                33.240640564032944
+              ],
+              [
+                -97.25978731971753,
+                33.23902902291537
+              ],
+              [
+                -97.27250797822776,
+                33.23636043639754
+              ],
+              [
+                -97.2848536758929,
+                33.23266059971977
+              ],
+              [
+                -97.29670514476663,
+                33.227965272533055
+              ],
+              [
+                -97.30794794378936,
+                33.22231982955001
+              ],
+              [
+                -97.31847357266619,
+                33.21577881751882
+              ],
+              [
+                -97.3281805254625,
+                33.20840542302263
+              ],
+              [
+                -97.33697527343702,
+                33.20027085649813
+              ],
+              [
+                -97.34477316744874,
+                33.191453658695735
+              ],
+              [
+                -97.35149925118841,
+                33.1820389365612
+              ],
+              [
+                -97.35708897748837,
+                33.17211753619674
+              ],
+              [
+                -97.36148882103544,
+                33.161785161152494
+              ],
+              [
+                -97.36465678193954,
+                33.15114144480168
+              ],
+              [
+                -97.36656277577615,
+                33.140288985960495
+              ],
+              [
+                -97.36718890691039,
+                33.129332357224925
+              ],
+              [
+                -97.36652962310762,
+                33.11837709570959
+              ],
+              [
+                -97.3645917506279,
+                33.10752868598838
+              ],
+              [
+                -97.36139441017345,
+                33.09689154505402
+              ],
+              [
+                -97.356968815201,
+                33.08656801903634
+              ],
+              [
+                -97.3513579552109,
+                33.07665740124919
+              ],
+              [
+                -97.3446161676748,
+                33.06725498087812
+              ],
+              [
+                -97.3368086032558,
+                33.05845113127866
+              ],
+              [
+                -97.32801058990256,
+                33.05033044643476
+              ],
+              [
+                -97.31830690225581,
+                33.04297093363239
+              ],
+              [
+                -97.30779094359197,
+                33.03644326984178
+              ],
+              [
+                -97.29656384823588,
+                33.03081012867853
+              ],
+              [
+                -97.2847335130067,
+                33.026125584135585
+              ],
+              [
+                -97.27241356681252,
+                33.02243459655083
+              ],
+              [
+                -97.25972228798247,
+                33.01977258550578
+              ],
+              [
+                -97.24678147931814,
+                33.018165093545825
+              ],
+              [
+                -97.23371531116045,
+                33.017627543778076
+              ],
+              [
+                -97.22064914300275,
+                33.018165093545825
+              ],
+              [
+                -97.20770833433843,
+                33.01977258550578
+              ],
+              [
+                -97.19501705550839,
+                33.02243459655083
+              ],
+              [
+                -97.1826971093142,
+                33.026125584135585
+              ],
+              [
+                -97.17086677408501,
+                33.03081012867853
+              ],
+              [
+                -97.15963967872894,
+                33.03644326984178
+              ],
+              [
+                -97.14912372006508,
+                33.04297093363239
+              ],
+              [
+                -97.13942003241833,
+                33.05033044643476
+              ],
+              [
+                -97.13062201906509,
+                33.05845113127866
+              ],
+              [
+                -97.1228144546461,
+                33.06725498087812
+              ],
+              [
+                -97.11607266710999,
+                33.07665740124919
+              ],
+              [
+                -97.11046180711989,
+                33.08656801903634
+              ],
+              [
+                -97.10603621214744,
+                33.09689154505402
+              ],
+              [
+                -97.102838871693,
+                33.10752868598838
+              ],
+              [
+                -97.10090099921327,
+                33.11837709570959
+              ],
+              [
+                -97.10024171541052,
+                33.129332357224925
+              ],
+              [
+                -97.10086784654474,
+                33.140288985960495
+              ],
+              [
+                -97.10277384038136,
+                33.15114144480168
+              ],
+              [
+                -97.10594180128545,
+                33.161785161152494
+              ],
+              [
+                -97.11034164483252,
+                33.17211753619674
+              ],
+              [
+                -97.11593137113249,
+                33.1820389365612
+              ],
+              [
+                -97.12265745487215,
+                33.191453658695735
+              ],
+              [
+                -97.13045534888388,
+                33.20027085649813
+              ],
+              [
+                -97.13925009685842,
+                33.20840542302263
+              ],
+              [
+                -97.1489570496547,
+                33.21577881751882
+              ],
+              [
+                -97.15948267853155,
+                33.22231982955001
+              ],
+              [
+                -97.17072547755426,
+                33.227965272533055
+              ],
+              [
+                -97.18257694642799,
+                33.23266059971977
+              ],
+              [
+                -97.19492264409314,
+                33.23636043639754
+              ],
+              [
+                -97.20764330260336,
+                33.23902902291537
+              ],
+              [
+                -97.22061599010506,
+                33.240640564032944
+              ],
+              [
+                -97.23371531116045,
+                33.241179481034166
+              ]
+            ]
+          ]
+        }
+      }
+    ]
+  }
