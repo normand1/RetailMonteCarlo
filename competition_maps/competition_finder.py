@@ -259,12 +259,21 @@ def boba_tea_shops_geojson(api_key, latitude, longitude, radius, keywords):
 
 # Example usage
 api_key = os.getenv("API_KEY")
-latitude = 33.101729782995356
-longitude = -97.23372386848219
-radius = 30000
+latitude = 32.96177363984826
+longitude = -97.11511862649252
+radius = 40000  # meters
 
 # 33.101729782995356, -97.23372386848219
-keywords = ["sandwich", "sandwiches", "deli", "delicatessen"]
+keywords = [
+    "boba",
+    "bubble tea",
+    "boba tea",
+    "milk tea",
+    "tapioca tea",
+    "boba shop",
+    "bubble tea shop",
+    "milk tea shop",
+]
 geojson_output = boba_tea_shops_geojson(api_key, latitude, longitude, radius, keywords)
 geojson_str = json.dumps(geojson_output, indent=2)  # Pretty print the GeoJSON
 

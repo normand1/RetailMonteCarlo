@@ -2,7 +2,7 @@ import os
 
 from dotenv import load_dotenv
 
-from coffee_shop_price_finder import CoffeeShopPriceFinder
+from competition_maps.coffee_shop_price_finder import CoffeeShopPriceFinder
 
 load_dotenv()
 
